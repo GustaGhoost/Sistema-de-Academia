@@ -1,4 +1,4 @@
-# NexusFit
+ # NexusFit
 
 > **Projeto de Orientação a Objetos (POO)** — PUC Minas Betim  
 > **Integrantes:** Eduardo Antunes, Eric Gomes, Gustavo de Aguilar, Jefferson Marlon  
